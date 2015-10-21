@@ -1,0 +1,20 @@
+{
+  "name": "babel-utils-react",
+  "version": "0.0.0",
+  "description": "Utility functions for building Babel plugins for React code",
+  "repository": "thejameskyle/babel-utils-react",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "devDependencies": {
+    "babel": "^5.8.23"
+  },
+  "scripts": {
+    "build": "babel-plugin build",
+    "push": "babel-plugin publish",
+    "test": "babel-plugin test"
+  },
+  "keywords": [
+    "babel-plugin",
+    "babel-utils"
+  ]
+}
