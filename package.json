@@ -1,6 +1,6 @@
 {
   "name": "babel-utils-react",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Utility functions for building Babel plugins for React code",
   "repository": "thejameskyle/babel-utils-react",
   "license": "MIT",
